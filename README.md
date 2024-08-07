@@ -1,7 +1,5 @@
 # ChatBot
 
-[ChatBot Banner](#chatbot)
-
 This repository contains the source code for ChatBot, an advanced chatbot integrated into an e-learning platform. ChatBot provides conversational support, code generation, and resource recommendations, utilizing cutting-edge NLP techniques.
 
 ## Table of Contents
