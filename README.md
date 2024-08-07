@@ -26,7 +26,9 @@ ChatBot is designed to enhance the learning experience by providing a sophistica
 
 ## Technologies Used
 
-- [Hugging Face Transformers](https://huggingface.co/transformers/): For NLP and chatbot functionality.
+- [Hugging Face Transformers](https://huggingface.co/transformers/): For state-of-the-art NLP models and chatbot functionality.
+- [NLTK (Natural Language Toolkit)](https://www.nltk.org/): For foundational NLP tasks such as tokenization, parsing, and classification.
+- [spaCy](https://spacy.io/): For efficient text processing, named entity recognition, and dependency parsing.
 - [Python](https://www.python.org/): Core language for developing the chatbot.
 - [Django](https://www.djangoproject.com/): For backend development and API creation.
 
